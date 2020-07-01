@@ -12,39 +12,39 @@
             width: 100%;
             margin: 0;
         }
-    
+
         html {
             height: 100%;
         }
-    
+
         body {
             min-height: 100%;
             padding: 20px;
             box-sizing: border-box;
         }
-    
+
         p {
             word-break: break-all;
         }
-    
+
         @media (max-width: 500px) {
             h1 {
                 margin-top: 80px;
             }
         }
-    
+
         .flex {
             display: flex;
             flex-direction: column;
             justify-content: center;
             align-items: center;
         }
-    
+
         .block {
             display: block;
             position: relative;
         }
-    
+
         .url {
             font-size: 18px;
             padding: 10px 10px 10px 5px;
@@ -53,11 +53,11 @@
             border: none;
             border-bottom: 1px solid #bfbfbf;
         }
-    
+
         input:focus {
             outline: none;
         }
-    
+
         .bar {
             content: '';
             height: 2px;
@@ -70,11 +70,11 @@
             -webkit-transition: 0.2s ease transform;
             transform: scaleX(0);
         }
-    
+
         .url:focus~.bar {
             transform: scaleX(1);
         }
-    
+
         .btn {
             line-height: 38px;
             background-color: #00bfb3;
@@ -89,7 +89,7 @@
             width: 160px;
             margin: 30px 0;
         }
-    
+
         .tips,
         .example {
             color: #7b7b7b;
@@ -97,14 +97,14 @@
             align-self: flex-start;
             margin-left: 7.5em;
         }
-    
+
         .tips>p:first-child::before {
             position: absolute;
             left: -3em;
             content: 'PS：';
             color: #7b7b7b
         }
-    
+
         .example>p:first-child::before {
             position: absolute;
             left: -7.5em;
@@ -127,6 +127,7 @@
             <input class="block url" name="q" type="text" placeholder="键入Github文件链接"
                 pattern="^(?:(?:https|http):\/\/)?github\.com\/.+?\/.+?\/(?:releases|archive|blob)\/.+$" required>
         </label>
+        <div class="bar"></div>
         <input class="block btn" type="submit" value="下载">
         <div class="tips">
             <p>GitHub文件链接带不带协议头都可以，支持release、archive以及文件，右键复制出来的链接都是符合标准的。</p>
