@@ -1,0 +1,9 @@
+{
+    "latestVersion": "9.2.1",
+    "windows": {
+        "x64": "https://github.com/electron/electron/releases/download/v9.2.1/electron-v9.2.1-win32-x64.zip",
+        "x64Sha256": "28323b46eb97e4ea090b28fb1a4095abeaa5f6066f471be8d8ffa10dd39d46ac",
+        "x86": "https://github.com/electron/electron/releases/download/v9.2.1/electron-v9.2.1-win32-ia32.zip",
+        "x86Sha256": "c2818856c9ba5a50d52aaa0387ca68582aa0d074b991f069e077a7c4342ffeaf"
+    }
+}
