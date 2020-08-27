@@ -1,0 +1,136 @@
+{
+    "latest": {
+        "version": "10.0.0",
+        "github": {
+            "x64": "https://github.com/electron/electron/releases/download/v10.0.0/electron-v10.0.0-win32-x64.zip",
+            "x86": "https://github.com/electron/electron/releases/download/v10.0.0/electron-v10.0.0-win32-ia32.zip"
+        },
+        "aliyun": {
+            "x64": "https://npm.taobao.org/mirrors/electron/10.0.0/electron-v10.0.0-win32-x64.zip",
+            "x86": "https://npm.taobao.org/mirrors/electron/10.0.0/electron-v10.0.0-win32-ia32.zip"
+        }
+    },
+    "tag": [
+        {
+            "version": "0.37.8",
+            "github": {
+                "x64": "https://github.com/electron/electron/releases/download/v0.37.8/electron-v0.37.8-win32-x64.zip",
+                "x86": "https://github.com/electron/electron/releases/download/v0.37.8/electron-v0.37.8-win32-ia32.zip"
+            },
+            "aliyun": {
+                "x64": "https://npm.taobao.org/mirrors/electron/0.37.8/electron-v0.37.8-win32-x64.zip",
+                "x86": "https://npm.taobao.org/mirrors/electron/0.37.8/electron-v0.37.8-win32-ia32.zip"
+            }
+        },
+        {
+            "version": "1.8.8",
+            "github": {
+                "x64": "https://github.com/electron/electron/releases/download/v1.8.8/electron-v1.8.8-win32-x64.zip",
+                "x86": "https://github.com/electron/electron/releases/download/v1.8.8/electron-v1.8.8-win32-ia32.zip"
+            },
+            "aliyun": {
+                "x64": "https://npm.taobao.org/mirrors/electron/1.8.8/electron-v1.8.8-win32-x64.zip",
+                "x86": "https://npm.taobao.org/mirrors/electron/1.8.8/electron-v1.8.8-win32-ia32.zip"
+            }
+        },
+        {
+            "version": "2.0.18",
+            "github": {
+                "x64": "https://github.com/electron/electron/releases/download/v2.0.18/electron-v2.0.18-win32-x64.zip",
+                "x86": "https://github.com/electron/electron/releases/download/v2.0.18/electron-v2.0.18-win32-ia32.zip"
+            },
+            "aliyun": {
+                "x64": "https://npm.taobao.org/mirrors/electron/2.0.18/electron-v2.0.18-win32-x64.zip",
+                "x86": "https://npm.taobao.org/mirrors/electron/2.0.18/electron-v2.0.18-win32-ia32.zip"
+            }
+        },
+        {
+            "version": "3.1.13",
+            "github": {
+                "x64": "https://github.com/electron/electron/releases/download/v3.1.13/electron-v3.1.13-win32-x64.zip",
+                "x86": "https://github.com/electron/electron/releases/download/v3.1.13/electron-v3.1.13-win32-ia32.zip"
+            },
+            "aliyun": {
+                "x64": "https://npm.taobao.org/mirrors/electron/3.1.13/electron-v3.1.13-win32-x64.zip",
+                "x86": "https://npm.taobao.org/mirrors/electron/3.1.13/electron-v3.1.13-win32-ia32.zip"
+            }
+        },
+        {
+            "version": "4.2.12",
+            "github": {
+                "x64": "https://github.com/electron/electron/releases/download/v4.2.12/electron-v4.2.12-win32-x64.zip",
+                "x86": "https://github.com/electron/electron/releases/download/v4.2.12/electron-v4.2.12-win32-ia32.zip"
+            },
+            "aliyun": {
+                "x64": "https://npm.taobao.org/mirrors/electron/4.2.12/electron-v4.2.12-win32-x64.zip",
+                "x86": "https://npm.taobao.org/mirrors/electron/4.2.12/electron-v4.2.12-win32-ia32.zip"
+            }
+        },
+        {
+            "version": "5.0.13",
+            "github": {
+                "x64": "https://github.com/electron/electron/releases/download/v5.0.13/electron-v5.0.13-win32-x64.zip",
+                "x86": "https://github.com/electron/electron/releases/download/v5.0.13/electron-v5.0.13-win32-ia32.zip"
+            },
+            "aliyun": {
+                "x64": "https://npm.taobao.org/mirrors/electron/5.0.13/electron-v5.0.13-win32-x64.zip",
+                "x86": "https://npm.taobao.org/mirrors/electron/5.0.13/electron-v5.0.13-win32-ia32.zip"
+            }
+        },
+        {
+            "version": "6.1.12",
+            "github": {
+                "x64": "https://github.com/electron/electron/releases/download/v6.1.12/electron-v6.1.12-win32-x64.zip",
+                "x86": "https://github.com/electron/electron/releases/download/v6.1.12/electron-v6.1.12-win32-ia32.zip"
+            },
+            "aliyun": {
+                "x64": "https://npm.taobao.org/mirrors/electron/6.1.12/electron-v6.1.12-win32-x64.zip",
+                "x86": "https://npm.taobao.org/mirrors/electron/6.1.12/electron-v6.1.12-win32-ia32.zip"
+            }
+        },
+        {
+            "version": "7.3.3",
+            "github": {
+                "x64": "https://github.com/electron/electron/releases/download/v7.3.3/electron-v7.3.3-win32-x64.zip",
+                "x86": "https://github.com/electron/electron/releases/download/v7.3.3/electron-v7.3.3-win32-ia32.zip"
+            },
+            "aliyun": {
+                "x64": "https://npm.taobao.org/mirrors/electron/7.3.3/electron-v7.3.3-win32-x64.zip",
+                "x86": "https://npm.taobao.org/mirrors/electron/7.3.3/electron-v7.3.3-win32-ia32.zip"
+            }
+        },
+        {
+            "version": "8.5.0",
+            "github": {
+                "x64": "https://github.com/electron/electron/releases/download/v8.5.0/electron-v8.5.0-win32-x64.zip",
+                "x86": "https://github.com/electron/electron/releases/download/v8.5.0/electron-v8.5.0-win32-ia32.zip"
+            },
+            "aliyun": {
+                "x64": "https://npm.taobao.org/mirrors/electron/8.5.0/electron-v8.5.0-win32-x64.zip",
+                "x86": "https://npm.taobao.org/mirrors/electron/8.5.0/electron-v8.5.0-win32-ia32.zip"
+            }
+        },
+        {
+            "version": "9.2.1",
+            "github": {
+                "x64": "https://github.com/electron/electron/releases/download/v9.2.1/electron-v9.2.1-win32-x64.zip",
+                "x86": "https://github.com/electron/electron/releases/download/v9.2.1/electron-v9.2.1-win32-ia32.zip"
+            },
+            "aliyun": {
+                "x64": "https://npm.taobao.org/mirrors/electron/9.2.1/electron-v9.2.1-win32-x64.zip",
+                "x86": "https://npm.taobao.org/mirrors/electron/9.2.1/electron-v9.2.1-win32-ia32.zip"
+            }
+        },
+        {
+            "version": "10.0.0",
+            "github": {
+                "x64": "https://github.com/electron/electron/releases/download/v10.0.0/electron-v10.0.0-win32-x64.zip",
+                "x86": "https://github.com/electron/electron/releases/download/v10.0.0/electron-v10.0.0-win32-ia32.zip"
+            },
+            "aliyun": {
+                "x64": "https://npm.taobao.org/mirrors/electron/10.0.0/electron-v10.0.0-win32-x64.zip",
+                "x86": "https://npm.taobao.org/mirrors/electron/10.0.0/electron-v10.0.0-win32-ia32.zip"
+            }
+        }
+    ]
+}
